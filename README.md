@@ -5,7 +5,7 @@
 
 Join Dc: https://discord.gg/Vn2f3asA7P
 
-QUantom is a free too use MultiTool with many functions, there is also a paid version of it, join dc for more infos
+Quantom is a free too use MultiTool with many functions, there is also a paid version of it, join dc for more infos
 
 FELL FREE TOO SCAN IT WITH VIRUSTOTAL
 
