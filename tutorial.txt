@@ -1,0 +1,13 @@
+TUTORIAL ON HOW TO SETUP Quantom
+
+1. Delete previous python & Install latest python
+2. Make sure you Add Python to path.
+3. Once installed extract Quantom Zip and open the folder
+4. Run setup.bat
+5. Open Quantom-Tool
+7. And Enjoy!
+
+Virustotal:Fell free too scan it!
+
+GOT ERROR OR BUG?
+Discord: https://discord.gg/Vn2f3asA7P

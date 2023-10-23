@@ -1,2 +1,3 @@
-# Quantom-Tool
-Quantom-Tool is a free and paid multi tool. DC: https://discord.gg/Vn2f3asA7P
+Python 3.10 or above must be installed!
+Internet connection must be available!
+Disable your antivirus/defender as it might delete some important files!
